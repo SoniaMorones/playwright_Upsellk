@@ -1,0 +1,15 @@
+{
+  "name": "upsellkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login":"playwright test --headed --project=firefox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
